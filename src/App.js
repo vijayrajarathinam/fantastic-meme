@@ -36,11 +36,9 @@ class App extends Component {
           this.load.image("10", "assets/Tiles/10.png");
           this.load.image("11", "assets/Tiles/11.png");
           this.load.image("12", "assets/Tiles/12.png");
-
           this.load.image("13", "assets/Tiles/13.png");
           this.load.image("14", "assets/Tiles/14.png");
           this.load.image("15", "assets/Tiles/15.png");
-
           this.load.image("17", "assets/Tiles/17.png"); //top_water
           this.load.image("18", "assets/Tiles/18.png"); //water
 
@@ -48,9 +46,7 @@ class App extends Component {
           this.load.image("sign2", "assets/Object/Sign_1.png"); //finish
 
           this.load.image("crate", "assets/Object/Crate.png");
-
           this.load.image("tree1", "assets/Object/Tree_1.png");
-
           this.load.image("tree2", "assets/Object/Tree_2.png");
 
           //game character
