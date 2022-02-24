@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/fantastic_meme/static/css/main.e6c13ad2.css",
-    "main.js": "/fantastic_meme/static/js/main.1a0eee79.js",
-    "polyfills-dom.js": "/fantastic_meme/static/js/polyfills-dom.8e1ce6dc.chunk.js",
-    "polyfills-core-js.js": "/fantastic_meme/static/js/polyfills-core-js.1854c045.chunk.js",
-    "static/js/340.9bec4f6d.chunk.js": "/fantastic_meme/static/js/340.9bec4f6d.chunk.js",
-    "static/js/787.8d34bf5d.chunk.js": "/fantastic_meme/static/js/787.8d34bf5d.chunk.js",
-    "index.html": "/fantastic_meme/index.html",
-    "main.e6c13ad2.css.map": "/fantastic_meme/static/css/main.e6c13ad2.css.map",
-    "main.1a0eee79.js.map": "/fantastic_meme/static/js/main.1a0eee79.js.map",
-    "polyfills-dom.8e1ce6dc.chunk.js.map": "/fantastic_meme/static/js/polyfills-dom.8e1ce6dc.chunk.js.map",
-    "polyfills-core-js.1854c045.chunk.js.map": "/fantastic_meme/static/js/polyfills-core-js.1854c045.chunk.js.map",
-    "340.9bec4f6d.chunk.js.map": "/fantastic_meme/static/js/340.9bec4f6d.chunk.js.map",
-    "787.8d34bf5d.chunk.js.map": "/fantastic_meme/static/js/787.8d34bf5d.chunk.js.map"
+    "main.css": "/fantastic-meme/static/css/main.e6c13ad2.css",
+    "main.js": "/fantastic-meme/static/js/main.03d661e8.js",
+    "polyfills-dom.js": "/fantastic-meme/static/js/polyfills-dom.8e1ce6dc.chunk.js",
+    "polyfills-core-js.js": "/fantastic-meme/static/js/polyfills-core-js.1854c045.chunk.js",
+    "static/js/340.9bec4f6d.chunk.js": "/fantastic-meme/static/js/340.9bec4f6d.chunk.js",
+    "static/js/787.8d34bf5d.chunk.js": "/fantastic-meme/static/js/787.8d34bf5d.chunk.js",
+    "index.html": "/fantastic-meme/index.html",
+    "main.e6c13ad2.css.map": "/fantastic-meme/static/css/main.e6c13ad2.css.map",
+    "main.03d661e8.js.map": "/fantastic-meme/static/js/main.03d661e8.js.map",
+    "polyfills-dom.8e1ce6dc.chunk.js.map": "/fantastic-meme/static/js/polyfills-dom.8e1ce6dc.chunk.js.map",
+    "polyfills-core-js.1854c045.chunk.js.map": "/fantastic-meme/static/js/polyfills-core-js.1854c045.chunk.js.map",
+    "340.9bec4f6d.chunk.js.map": "/fantastic-meme/static/js/340.9bec4f6d.chunk.js.map",
+    "787.8d34bf5d.chunk.js.map": "/fantastic-meme/static/js/787.8d34bf5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1a0eee79.js"
+    "static/js/main.03d661e8.js"
   ]
 }
